@@ -1,0 +1,40 @@
+--------------------result--------------------
+
+PRODUCT 1
+
+Product Name    :vivo
+
+Product Id      :115
+
+Product Price   :25000
+
+Product Quantity:0
+
+PRODUCT 2
+
+Product Name    :samsung
+
+Product Id      :124
+
+Product Price   :35000
+
+Product Quantity:0
+
+PRODUCT 3
+
+Product Name    :nokia
+
+Product Id      :130
+
+Product Price   :50000
+
+Product Quantity:0
+
+
+Product Total     :0.00
+
+Product Disper    :0.00
+
+Product Dis_amt   :0.00
+
+Product Pay_amt   :0.00
