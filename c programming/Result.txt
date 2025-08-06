@@ -1,0 +1,13 @@
+
+-----------------Result------------------
+RollNumber        :55 
+Name              :nakul
+Subject 1         :java
+Marks of Subject 1:99.000000
+Subject 2         :python
+Marks of Subject 2:85.000000
+Subject 3         :dotnet
+Marks of Subject 3:67.000000
+Total             :251.000000
+Avg               :83.666664
+Grade             :A
